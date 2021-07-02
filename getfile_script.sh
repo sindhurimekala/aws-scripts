@@ -1,4 +1,4 @@
-#!/usr/bin/ksh
+#!/usr/bin/bash
 #set -x
 echo "\n GET files Script Started.... \n"
 
